@@ -4,4 +4,5 @@ requests
 pandas
 numpy
 pandas_ta
-llvmlite
+numba==0.58.1
+llvmlite==0.41.0
