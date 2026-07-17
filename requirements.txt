@@ -2,5 +2,5 @@ flask
 gunicorn
 requests
 pandas
-nympy
+numpy
 pandas_ta
