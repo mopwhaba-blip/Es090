@@ -3,3 +3,4 @@ gunicorn
 requests
 pandas
 pandas-ta
+numpy==0.26.1
