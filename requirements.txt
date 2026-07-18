@@ -3,5 +3,5 @@ gunicorn
 requests
 pandas
 pandas-ta
-numpy
-llvmlite
+numba==0.58.1
+llvmlite==0.41.0.
