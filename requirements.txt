@@ -3,5 +3,4 @@ gunicorn
 requests
 pandas
 pandas-ta
-numpy
 llvmlite
