@@ -4,4 +4,4 @@ requests
 pandas
 pandas-ta
 numba==0.58.1
-llvmlite==0.41.0.
+llvmlite
