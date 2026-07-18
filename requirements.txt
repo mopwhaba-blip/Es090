@@ -3,4 +3,4 @@ gunicorn
 requests
 pandas
 pandas-ta
-numpy
+numba
