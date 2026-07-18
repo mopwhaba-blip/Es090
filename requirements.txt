@@ -1,5 +1,6 @@
 flask 
 gunicorn
 requests
-pandas_ta
+pandas
 numpy==1.26.4
+wheel
