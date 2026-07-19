@@ -1,4 +1,7 @@
-flask 
+pip --upgrade 
+setuptools --upgrade
+wheel --upgrade
+flask
 gunicorn
 requests
 pandas-ta
